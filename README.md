@@ -1,5 +1,8 @@
-<div align='center'>
-<img align='center' src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=fffff&size=24&width=500&lines=Hi+there+👋;Hi+there+👋" alt="pphatDev" /><br/>
+<div align='center' >
+
+  ### Hi there 👋 
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=fffff&size=24&width=500&lines=Hi+there+👋;Hi+there+👋" alt="pphatDev" /><br/> -->
+<img align='middle' src='https://raw.githubusercontent.com/pphatdev/pphatDev/main/me.svg'/>
 <br>
 
 [Blog](https://leatsophat.me/) •
@@ -19,8 +22,13 @@
 </div>
 
 <div align='center' >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatDev&layout=compact" alt="pphatDev" /> <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pphatdev" /><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=pphatDev&show_icons=true" alt="pphatDev" /><br/>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pphatdev" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pphatdev" /> </div>
+ 
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pphatDev" alt="pphatDev" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=pphatDev&show_icons=true" alt="pphatDev" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatDev&layout=compact" alt="pphatDev" /> <br/>
 </div>
