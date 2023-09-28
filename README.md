@@ -1,9 +1,15 @@
 <div align='center' >
 
-  ### Hi there 👋 
+  ### Hi there 👋
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=fffff&size=24&width=500&lines=Hi+there+👋;Hi+there+👋" alt="pphatDev" /><br/> -->
 <img align='middle' src='https://raw.githubusercontent.com/pphatdev/pphatDev/main/me.svg'/>
+
 <br>
+
+<div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="left"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
+</div>
 
 [Blog](https://leatsophat.me/) •
 [Channel](https://tg.cosr.eu.org) 
