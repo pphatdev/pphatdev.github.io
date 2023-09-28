@@ -33,7 +33,6 @@
  
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pphatDev" alt="pphatDev" /><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=pphatDev&show_icons=true" alt="pphatDev" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatDev&layout=compact" alt="pphatDev" /> <br/>
 </div>
