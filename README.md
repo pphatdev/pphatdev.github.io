@@ -11,8 +11,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
 </div>
 
-[Blog](https://leatsophat.me/) •
-[Channel](https://tg.cosr.eu.org) 
+[Blog](https://leatsophat.me/)
 
 ![Counter](https://count.getloli.com/get/@pphatdev?theme=rule34)
 
