@@ -13,7 +13,7 @@
 
 [Blog](https://leatsophat.me/)
 
-![Counter](https://count.getloli.com/get/@pphatdev?theme=rule34)
+![Counter](https://count.getloli.com/get/@pphatdev?theme=gelbooru)
 
 ![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
