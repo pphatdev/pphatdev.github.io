@@ -27,5 +27,27 @@
 ![](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
 </div>
 
-<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=pphatdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&langs_count=2&bg_color=9ca3af00&hide_border=true&hide_title=true" />
-<img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=pphatdev&bg_color=ffffff00&color=298f1d&line=1f8f00&point=248f12&area=true&hide_border=true" />
+<table border="0">
+    <tr>
+        <td width="30%">
+            <img src="https://64.media.tumblr.com/46c4f281b1dd72bd8602b3ba9eee3278/92ce5fff0e9f6322-ef/s400x600/110adb06d691ad926166f805d27529f1f009194d.jpg" alt="">
+        </td>
+        <td width="70%">
+            <img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=pphatdev&bg_color=ffffff00&color=298f1d&line=1f8f00&point=248f12&area=true&hide_border=true" />
+        </td>
+    </tr>
+</table>
+
+<table border="0">
+    <tr>
+        <td width="70%">
+            <img align="" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=pphatdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+        </td>
+        <td width="30%">
+            <img width="100%" src="https://i.imgflip.com/511y28.jpg" alt="">
+        </td>
+    </tr>
+</table>
+
+<!-- <img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=pphatdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&langs_count=2&bg_color=9ca3af00&hide_border=true&hide_title=true" />
+<img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=pphatdev&bg_color=ffffff00&color=298f1d&line=1f8f00&point=248f12&area=true&hide_border=true" /> -->
