@@ -8,9 +8,9 @@
 <br>
 
 <div>
-    <img src="https://cdn.discordapp.com/emojis/1004638051047309393.gif" width="60" height="60" align="center"/> 
+    <img src="https://cdn.discordapp.com/emojis/1004638051047309393.gif" width="60" height="60" align="right"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="left"/> 
-    <img src="https://cdn.discordapp.com/emojis/710952007191625858.gif" width="60" height="60" align="right"/> 
+    <img src="https://cdn.discordapp.com/emojis/710952007191625858.gif" width="60" height="60" align="center"/> 
 </div>
 
 [Blog](https://leatsophat.me/)
