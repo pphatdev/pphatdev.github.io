@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Hello PPhat 🌈🌞 </h1>
+    <h1> Hello! I am Sophat (or PPhatdev) 🌈🌞 </h1>
 </div>
 
 <br>
