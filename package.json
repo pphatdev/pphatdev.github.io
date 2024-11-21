@@ -1,0 +1,11 @@
+{
+  "name": "pphatdev.github.io",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r     <h1> Hello! I am Sophat (or PPhatdev) 🌈🌞 </h1>\r </div>",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
