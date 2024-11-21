@@ -1,30 +1,129 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pphatdev.github.oi</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Leat Sophat - Portfolio</title>
+    <meta property="og:title" content="Leat Sophat - Portfolio">
+    <meta name="twitter:title" content="Leat Sophat - Portfolio" />
+    <meta property="og:site_name" content="Leat Sophat - Portfolio" />
+    <meta name="robots" content="follow, index" />
+    <meta name="description" content="Welcome to my portfolio - Thoughts from a wandering mind. I am the senior front-end developer of TurboTech, and an UI/UX designer. In my free time, I like design side projects and developing them." />
+    <meta property="og:description" content="Welcome to my portfolio - Thoughts from a wandering mind. I am the senior front-end developer of TurboTech, and an UI/UX designer. In my free time, I like design side projects and developing them." />
+    <meta name="twitter:description" content="Welcome to my portfolio - Thoughts from a wandering mind. I am the senior front-end developer of TurboTech, and an UI/UX designer. In my free time, I like design side projects and developing them." />
+    <meta name="author" content="Leat Sophat">
+    <link rel="canonical" href="https://leatsophat.me/" />
+    <meta property="og:url" content="https://leatsophat.me/" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="https://twitter.com/infoSophat" />
+    <meta property="og:image" content="./src/images/home.webp" />
+    <meta name="twitter:image" content="./src/images/home.webp" />
+    <link rel="apple-touch-icon" sizes="76x76" href="./src/images/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./src/images/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./src/images/favicon-16x16.png" />
+    <link rel="stylesheet" href="https://leatsophat.me/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Suwannaphum:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+    <link href="https://pphatdev.github.io/fonts/style.css" rel="stylesheet">
+    <meta name="Content-Security-Policy" content="default-src 'self'; img-src https://*; child-src 'none';">
+    <meta name="X-Content-Type-Options" content="nosniff">
+    <meta name="X-Frame-Options" content="SAMEORIGIN">
+    <meta name="X-XSS-Protection" content="1; report=<reporting-uri>">
+    <link rel="icon" href="favicon.ico">
+    <script defer="defer" src="./src/index.js" type="module"></script>
+    <meta name="theme-color" content="#ffffff" />
 </head>
+<body class="dark:bg-slate-950 overflow-hidden">
 
-<body>
-    <svg width="118" height="25" viewBox="0 0 118 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <g id="Sections">
-            <g>
-                <!-- <path d="M0 4.9964C0 2.48772 2.03368 0.454041 4.54236 0.454041H83.6271V24.0811H4.54237C2.03369 24.0811 0 22.0474 0 19.5388V4.9964Z" fill="#F43B43" /> -->
-                <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.9017" font-weight="600" letter-spacing="-0.104474px">
-                    <tspan x="7.28777" y="16.2284" id="label">Total Commit</tspan>
-                </text>
-            </g>
-            <g>
-                <!-- <path d="M83.6271 0.454041H112.712C115.22 0.454041 117.254 2.48772 117.254 4.9964V19.5388C117.254 22.0474 115.22 24.0811 112.712 24.0811H83.6271V0.454041Z" fill="#290FA8" /> -->
-                <text id="1242" fill="white" xml:space="preserve" style="white-space: pre" font-family="Kantumruy Pro" font-size="9.08472" font-weight="600" letter-spacing="-0.104474px">
-                    <tspan x="90.8694" y="15.2622" id="total">1242</tspan>
-                </text>
-            </g>
-        </g>
+    <div class="area">
+        <ul class="circles"> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li></ul>
+    </div>
+
+    <header id="header" class="sticky top-0 z-20 w-full scroll-smooth backdrop-blur-sm dark:bg-white/5 bg-white/50"></header>
+
+    <div data-sidebar-backdrop class="fixed inset-0 z-50 hidden w-full h-full bg-white/70 dark:block/20 backdrop-blur-sm"></div>
+        <div data-sidebar-target class="fixed z-50 hidden w-full max-w-xs p-6 text-base font-semibold -translate-x-1/2 bg-white rounded-lg shadow-lg top-4 left-1/2 text-slate-900 dark:bg-slate-800 dark:text-slate-400 dark:highlight-white/5">
+            <button type="button" data-sidebar-toggle class="absolute flex items-center justify-center w-8 h-8 top-5 right-5 text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300" tabindex="0">
+                <span class="sr-only">Close navigation</span>
+                <svg viewBox="0 0 10 10" class="w-2.5 h-2.5 overflow-visible" aria-hidden="true">
+                    <path d="M0 0L10 10M10 0L0 10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+                </svg>
+            </button>
+            <ul class="space-y-6" id="menu"></ul>
+            <div class="mt-5 text-center">
+                <button data-theme-toggle class="px-3 py-1 mx-auto mt-10 text-sm transition-colors border rounded-full sm:mt-0 border-stone-200 drop-shadow-sm text-stone-800 dark:text-white bg-white/40 dark:bg-black/20 backdrop-blur-lg hover:border-stone-300 dark:border-stone-500 dark:hover:border-stone-400">🌞</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="relative dark:bg-slate-950 snap-center h-screen min-h-[50rem] max-h-[60rem] sm:h-[calc(100vh_+8px)]">
+        <div class="relative flex flex-col items-center justify-center h-screen max-h-[60rem] sm:h-[calc(100vh_+8px)] -mt-20 dark:bg-slate-950 transition-bg">
+            <canvas id="canvas" class="absolute inset-0 flex"></canvas>
+            <!-- <div class="absolute inset-0 overflow-hidden dark:hidden">
+                <div class="jumbo absolute -inset-[10px] opacity-50"></div>
+            </div> -->
+            <div class="flex flex-col items-center justify-center w-full max-w-6xl px-4 pt-10 mx-auto text-center max-h-96 sm:flex-col gap-7 md:pt-0 md:items-start md:justify-between md:flex-row">
+                <h1 class="md:hidden leading-[0] text-center text-[6rem] font-tacteng">3</h1>
+                <div class="block">
+                    <h1 class="relative text-4xl font-bold leading-tight text-gray-800 break-words transition-colors sm:text-left md:text-6xl font-poppins sm:flex-row dark:text-white dark:opacity-80">
+                        Hello I'm LEAT <span class="font-black text-primary-600">Sophat</span>
+                    </h1>
+                    <h1 class="relative mt-3 text-2xl font-bold text-gray-800 break-words transition-colors sm:text-left md:text-3xl font-poppins sm:flex-row dark:text-white dark:opacity-80">
+                        Senior Front-end Developer
+                    </h1>
+                    <p class="max-w-md py-4 mt-5 text-sm font-normal lg:max-w-xl md:text-lg sm:text-left dark:text-primary-600 text-slate-600 font-body">
+                        Welcome to my portfolio - Thoughts from a wandering mind. I am the senior front-end developer of TurboTech, and an UI/UX designer. In my free time, I like design side projects and developing them.
+                    </p>
+                    <div class="flex items-center justify-center w-full gap-3 text-center sm:justify-start">
+                        <a href="/projects" class="px-4 active:bg-primary py-1.5 text-xs sm:text-sm transition-colors border rounded-lg border-stone-200 drop-shadow-sm hover:bg-primary-800 text-white bg-primary-700 dark:bg-black/20 backdrop-blur-lg hover:border-stone-300 dark:border-stone-500 dark:hover:border-stone-400">
+                            My Works
+                        </a>
+                        <a target="_blank" href="https://drive.google.com/file/d/10rCDGaZmPShEig1ffibrQaec6N8tsRfS/view?usp=sharing" class="px-4 gap-2 active:bg-primary/10 flex items-center py-1.5 text-xs sm:text-sm transition-colors border rounded-lg border-stone-200 drop-shadow-sm text-stone-800 dark:text-white bg-white/40 dark:bg-black/20 backdrop-blur-lg hover:border-stone-300 dark:border-stone-500 dark:hover:border-stone-400">
+                            <span>Download CV</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12 12 16.5m0 0L7.5 12m4.5 4.5V3" />
+                            </svg>
+                            <div class="absolute inset-0 items-end h-5 overflow-hidden rounded-full translate-y-7 sm:translate-y-8 group-hover:flex">
+                                <div class="flex -mb-px h-[1px] w-full">
+                                    <div class="w-full flex-none blur-sm [background-image:linear-gradient(90deg,rgba(56,189,248,0)_0%,#0EA5E9_32.29%,rgba(236,72,153,0.3)_67.19%,rgba(236,72,153,0)_100%)]"></div>
+                                    <div class="-ml-[99%] w-full flex-none blur-[1px] [background-image:linear-gradient(90deg,rgba(56,189,248,0)_0%,#0EA5E9_32.29%,rgba(236,72,153,0.3)_67.19%,rgba(236,72,153,0)_100%)]"></div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <!-- <div data-image class="relative z-10 items-center justify-center flex-shrink-0 order-first block border-2 border-dashed animate-faded dark:border-slate-900 md:order-last">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 animate-spin text-black/50">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" />
+                    </svg>
+                </div> -->
+                <div class="relative z-10 items-center justify-center flex-shrink-0 order-first block mt-5 border-2 border-dashed animate-faded dark:border-slate-900 md:order-last">
+                    <div class="rounded-full box w-36 h-36 sm:w-44 md:w-64 sm:h-44 md:h-64">
+                        <img src="./src/images/leat-sophat.webp" loading="lazy" class="py-1 rounded-full w-36 shrink-0 ring-primary h-36 sm:w-44 md:w-64 sm:h-44 md:h-64" alt="Leat Sophat">
+                    </div>
+                </div>
+            </div>
+            <div class="absolute flex flex-col items-center bottom-7">
+                <h1 class="hidden mb-10 text-5xl text-center md:block font-tacteng text-primary">2</h1>
+            </div>
+        </div>
+    </div>
+
+    <!-- background pattern -->
+    <svg class="absolute mt-4 pointer-events-none inset-0 h-full w-full stroke-gray-300 dark:stroke-gray-800 opacity-50 [mask-image:radial-gradient(100%_100%_at_top_center,white,transparent)]" aria-hidden="true">
+        <defs>
+            <pattern id="83fd4e5a-9d52-42fc-97b6-718e5d7ee527" width="200" height="200" x="50%" y="-1" patternUnits="userSpaceOnUse">
+                <path d="M100 200V.5M.5 .5H200" fill="none"></path>
+            </pattern>
+        </defs>
+        <svg x="50%" y="-1" class="overflow-visible fill-gray-50 dark:fill-slate-800">
+            <path d="M-100.5 0h201v201h-201Z M699.5 0h201v201h-201Z M499.5 400h201v201h-201Z M-300.5 600h201v201h-201Z" stroke-width="0"></path>
+        </svg>
+        <rect width="100%" height="100%" stroke-width="0" fill="url(#83fd4e5a-9d52-42fc-97b6-718e5d7ee527)"></rect>
     </svg>
 
-    <script type="module" src="./hello-world.js"></script>
 </body>
 </html>
