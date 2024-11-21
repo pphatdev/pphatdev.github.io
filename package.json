@@ -4,8 +4,12 @@
   "description": "<div align=\"center\">\r     <h1> Hello! I am Sophat (or PPhatdev) 🌈🌞 </h1>\r </div>",
   "main": "hello-world.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "style": "npx tailwindcss -i ./src/style/app.css -o ./index.css --watch",
+    "build": "npx tailwindcss -i ./src/style/app.css -o ./index.css --minify"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
 }
