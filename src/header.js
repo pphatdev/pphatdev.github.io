@@ -1,5 +1,5 @@
-import { modules as pages } from "../data/pages.config"
-import { minify } from "../helpers/stringMinify"
+import { modules as pages } from "./data.js"
+import { minify } from "./minify.js"
 export class Header {
 
     constructor() {
@@ -136,14 +136,18 @@ export class Header {
      * Main Header Navigation
      */
     #navigation = () => {
-        const header = document.querySelector('#header')
-        header.innerHTML = minify(`
+        try {
+            const header = document.querySelector('#header')
+            header.innerHTML = minify(`
             <nav class="flex items-center justify-between w-full max-w-6xl mx-auto">
                 ${this.#logo()}
                 ${this.#menu()}
                 ${this.#rightNavigation()}
             </nav>
         `)
+        } catch (error) {
+
+        }
     }
 }
 
